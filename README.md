@@ -1,2 +1,5 @@
 # cs255
-Created for CS255
+
+The DriverPass project was created to build a user-friendly system that helps people prepare for their driving tests. The client, DriverPass, wanted a platform that offered online practice tests, tracked user progress, and allowed users to schedule driving lessons. It also needed to include features for generating reports, managing accounts, and staying updated with DMV requirements. The goal was to create a system that was secure, flexible, and easy to use on multiple devices.
+
+One thing I did well was clearly documenting the system’s requirements, ensuring that it met the client’s needs, such as security, adaptability, and role-based access. If I could improve one part, I would make the security details more specific, like listing exact encryption methods and better logging practices. I focused on understanding what users needed by listening to their problems and turning those into practical features, like tracking progress and integrating DMV updates. In the future, I would use strategies like mapping user stories, creating early prototypes, and working in smaller steps to make sure the design meets the user’s needs and can adapt to changes.
